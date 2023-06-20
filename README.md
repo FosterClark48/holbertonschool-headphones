@@ -25,4 +25,4 @@ You won’t have a lot of instruction, you are free to implement it the way that
 ---
 
 ### Mobile
-<img src="images/headphones_mobile.png" height="900">
+<img src="images/headphones_mobile.png" width="300">
