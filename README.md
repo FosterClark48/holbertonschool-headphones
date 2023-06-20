@@ -13,12 +13,14 @@ You won’t have a lot of instruction, you are free to implement it the way that
 
 ---
 
-### Final Result
-#### Desktop:
+## Final Result
+### Desktop:
 <img src="images/headphones_desktop.png" width="300">
+---
 
-#### Tablet
+### Tablet
 <img src="images/headphones_tablet.png" width="300">
+---
 
-#### Mobile
+### Mobile
 <img src="images/headphones_mobile.png" height="900">
