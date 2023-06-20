@@ -19,7 +19,7 @@ You won’t have a lot of instruction, you are free to implement it the way that
 
 ---
 
-###  Tablet
+### :computer: Tablet
 <img src="images/headphones_tablet.png" width="300">
 
 ---
