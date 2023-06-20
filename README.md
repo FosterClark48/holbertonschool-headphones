@@ -16,10 +16,12 @@ You won’t have a lot of instruction, you are free to implement it the way that
 ## Final Result
 ### Desktop:
 <img src="images/headphones_desktop.png" width="300">
+
 ---
 
 ### Tablet
 <img src="images/headphones_tablet.png" width="300">
+
 ---
 
 ### Mobile
