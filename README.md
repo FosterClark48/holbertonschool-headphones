@@ -1,5 +1,5 @@
 # Implement a Design From Scratch
-## Headphones Company
+## Headphones Company :headphones:
 ---
 ### Concepts
 *For this project, we expect you to look at this concept:*
@@ -14,15 +14,15 @@ You won’t have a lot of instruction, you are free to implement it the way that
 ---
 
 ## Final Result
-### Desktop:
-<img src="images/headphones_desktop.png" width="300">
+### :desktop_computer: Desktop:
+<img src="images/headphones_desktop.png" width="500">
 
 ---
 
-### Tablet
+###  Tablet
 <img src="images/headphones_tablet.png" width="300">
 
 ---
 
-### Mobile
+### :iphone: Mobile
 <img src="images/headphones_mobile.png" width="300">
