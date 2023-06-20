@@ -27,6 +27,8 @@ You won’t have a lot of instruction, you are free to implement it the way that
 ### :iphone: Mobile
 <img src="images/headphones_mobile.png" width="300">
 
+---
+
 ### Requirements :heavy_check_mark::clipboard:
 - you are not allowed to import external CSS framework (like Bootstrap)
 - you are not to use Javascript
