@@ -15,4 +15,4 @@ You won’t have a lot of instruction, you are free to implement it the way that
 
 ### Final Result
 #### Desktop:
-<img src="images/headphones_desktop.png" width="100">
+<img src="images/headphones_desktop.png" width="300">
