@@ -1,0 +1,103 @@
+@import url("./holberton_school-icon/style.css");
+
+
+/* #region ROOT */
+
+:root {
+    --content-max-width: 1000px;
+    --button-opacity: 0.9;
+    --color-white: #fff;
+    --color-black: #071629;
+    --color-gray: #979797;
+    --header-hover-color: #ff6565;
+    --color-orange: #FF6565;
+    --header-hover-opacity: 0.9;
+    --header-max-width: 1000px;
+    --default-font: url('Source Sans Pro', sans-serif);
+}
+
+/* #endregion */
+
+/* #region BODY */
+
+body {
+    font-family: var(--default-font);
+}
+
+/* #endregion */
+
+/* #region HEADER */
+
+/* Header */
+
+.header-image {
+    background-image: url(./images/headphones_hero_1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: var(--color-white);
+    position: relative;
+    height: 100vh;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    max-width: var(--header-max-width);
+}
+
+.logo {
+    height: 2rem;
+    width: 10.0625rem;
+}
+
+nav {
+    display: flex;
+}
+
+.nav-menu {
+    display: inline-flex;
+    align-items: center;
+    list-style-type: none;
+    padding: 0;
+    gap: 2.5rem;
+}
+
+/* Hero */
+
+.hero-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hero-title {
+    color: var(--color-white);
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 700;
+    position: relative;
+}
+
+/* Button */
+
+.cta-button {
+    display: block;
+    flex-shrink: 0;
+    cursor: pointer;
+    border-radius: 22px;
+    background: var(--color-orange);
+    color: var(--color-white);
+    font-family: var(--default-font);
+    font-size: 0.875rem;
+    text-align: center;
+    font-weight: 700;
+    width: 10.125rem;
+    height: 2.75rem;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.50);
+    border-color: transparent;
+}
+
+
+/* #endregion */
+
